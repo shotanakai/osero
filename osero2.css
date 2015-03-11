@@ -1,0 +1,26 @@
+table {
+	border-collapse: collapse;
+}
+td {
+	border: solid 2px black;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+}
+.black{
+	color: black;
+}
+.white {
+	color: white;
+}
+.green {
+	color: green;
+}
+.score {
+	height: 30px;
+}
+#main {
+	margin: 0 auto;
+	height: 500px;
+	width: 500px;
+}
