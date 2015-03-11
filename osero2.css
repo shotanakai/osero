@@ -24,3 +24,6 @@ td {
 	height: 500px;
 	width: 500px;
 }
+#board:hover {
+cursor: pointer;
+}
